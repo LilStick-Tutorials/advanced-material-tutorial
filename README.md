@@ -1,1 +1,1 @@
-# lil-stick-material-tutorial
+# Lil Stick's Advanced Material Tutorial
