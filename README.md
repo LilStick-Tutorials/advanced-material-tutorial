@@ -1,5 +1,7 @@
 # Lil Stick's Custom Advanced Material Tutorial
 
+![Example](https://i.imgur.com/tHb4qW1.png)
+
 ## Step 1
 Open your in game console by pressing the ` key.
 
