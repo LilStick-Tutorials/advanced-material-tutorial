@@ -76,3 +76,9 @@ So as an example the `workshop` file structure needs a `.cache` at the end like 
 Anything new I find I will post above and make a `Step 8`
 
 If you have any isses with this tutorial or something I didnt explain very well please contact me on discord `ayystick` and I will adjust this. You can also make commits to github if you know how to use it!
+
+# FAQ
+
+Q. How do I find my gang image?
+
+A. Gang images are stored in a file path called `bricks`. Search for `brick` in the filter menu at the top of the texture list screen. **REMEMBER** Gang images dont always load in for everyone, if you want this file to be visable to everyone then make sure you capture flags to force the clients PC to download the image from the server.
