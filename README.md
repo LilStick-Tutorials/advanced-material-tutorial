@@ -1,4 +1,4 @@
-# Lil Stick's Advanced Material Tutorial
+# Lil Stick's Custom Advanced Material Tutorial
 
 ## Step 1
 Open your in game console by pressing the ` key.
