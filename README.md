@@ -1,5 +1,7 @@
 # Lil Stick's Custom Advanced Material Tutorial
 
+# GC ON TOP
+
 ![Example](https://i.imgur.com/tHb4qW1.png)
 
 ## Step 1
