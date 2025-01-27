@@ -1,5 +1,7 @@
 # Lil Stick's Custom Advanced Material Tutorial
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IWQBQ)
+
 # GC ON TOP
 
 ![Example](https://i.imgur.com/tHb4qW1.png)
